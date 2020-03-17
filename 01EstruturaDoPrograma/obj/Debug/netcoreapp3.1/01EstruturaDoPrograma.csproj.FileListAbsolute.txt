@@ -1,0 +1,11 @@
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01EstruturaDoPrograma.exe
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01EstruturaDoPrograma.deps.json
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01EstruturaDoPrograma.runtimeconfig.json
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01EstruturaDoPrograma.runtimeconfig.dev.json
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01EstruturaDoPrograma.dll
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\bin\Debug\netcoreapp3.1\01EstruturaDoPrograma.pdb
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01EstruturaDoPrograma.AssemblyInfo.cs
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01EstruturaDoPrograma.dll
+C:\projetos\dotnet\digitalinnovationone\01EstruturaDoPrograma\obj\Debug\netcoreapp3.1\01EstruturaDoPrograma.pdb
